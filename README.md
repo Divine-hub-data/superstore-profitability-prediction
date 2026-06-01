@@ -82,4 +82,4 @@ and receive a profitability prediction instantly.
 
 ## Author
 
-Adetutu Obadeyin
+Divine Obadeyin
